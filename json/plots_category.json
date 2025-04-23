@@ -1,0 +1,38 @@
+{
+    "binary": [
+        "Correlation Matrix Heatmap",
+        "Pair Plot",
+        "Box Plot",
+        "Violin Plot",
+        "Histogram with KDE",
+        "Parallel Coordinates Plot",
+        "PCA Plot",
+        "T-SNE Plot",
+        "Cluster Heatmap"
+    ],
+    "multi": [
+        "Correlation Matrix Heatmap",
+        "Pair Plot",
+        "Box Plot",
+        "Violin Plot",
+        "Histogram with KDE",
+        "Parallel Coordinates Plot",
+        "PCA Plot",
+        "T-SNE Plot",
+        "Cluster Heatmap"
+    ],
+    "regressor": [
+        "Residual Plot",
+        "Correlation Matrix Heatmap",
+        "Pair Plot",
+        "Box Plot",
+        "Violin Plot",
+        "Histogram with KDE",
+        "Facet Grid",
+        "Parallel Coordinates Plot",
+        "PCA Plot",
+        "T-SNE Plot",
+        "Cluster Heatmap",
+        "Cumulative Distribution Function (CDF) Plot"
+    ]
+}
