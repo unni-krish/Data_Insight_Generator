@@ -87,7 +87,7 @@ def main():
     
 
     
-    uploaded_file = st.file_uploader("Upload a CSV or Excel file", type=['csv', 'xlsx'])
+    uploaded_file = st.file_uploader("Upload a CSV or Excel files", type=['csv', 'xlsx'])
     
     if uploaded_file is not None:
         data = load_data(uploaded_file)
